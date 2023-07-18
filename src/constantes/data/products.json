@@ -1,0 +1,103 @@
+[
+
+    {
+        "id": 1,
+	    "categoryId": 1,
+        "description": "S7-1200",
+        "stock":10,
+        "price": 500,
+        "brand": "Siemens",
+        "resume":"Los controladores básicos SIMATIC S7-1200 son la opción ideal cuando se trata de realizar tareas de automatización de manera flexible y eficiente en el rango de rendimiento medio a bajo. Cuentan con una amplia gama de funciones tecnológicas e IO integradas, así como un diseño especialmente compacto y que ahorra espacio.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/s71200.png?alt=media&token=c3683832-9ce6-429b-b4d0-b3e366f36b02"
+    },
+    {
+        "id": 2,
+	    "categoryId": 1,
+        "description": "Modicon M-241",
+        "stock":10,
+        "price": 450,
+        "brand": "Schneider",       
+        "resume": "El controlador Modicon M241 es el mejor en su clase en cuanto a comunicaciones, con sus 5 puertos integrados. Ofrece las características técnicas más avanzadas y maestro CANopen integrado para arquitecturas con bus de campo de hasta 63 dispositivos, al mismo tiempo que reduce los tiempos de instalación y costes. Obtenga acceso ilimitado a su máquina vía Ethernet, a cualquier hora y desde cualquier lugar, simplificando el mantenimiento con la visualización desde dispositivos móviles, de las páginas diseñadas dentro del software de programación SoMachine y almacenadas en el servidor web del autómata.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/modicon.png?alt=media&token=627abf64-ce20-4fad-abdc-a978eba27f98"
+    },
+    {
+        "id": 3,
+	    "categoryId": 1,
+        "description": "DVP 20SX2",
+        "stock":10,
+        "price": 200,
+        "brand": "Delta",       
+        "resume": "El PLC de tipo delgado de la serie DVP-SX2 de segunda generación ofrece 14 puntos digitales y puntos de E/S analógica de 12 bits integrados. Es extensible con módulos de extensión del lado derecho e izquierdo de la serie DVP-S.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/delta-plc.png?alt=media&token=8e26f830-37ff-4559-8db3-cfb7849396b0"
+    },
+    {
+        "id": 4,
+	    "categoryId": 1,
+        "description": "Micrologix 1000",
+        "stock":10,
+        "price": 800,
+        "brand": "Allen Bradley",       
+        "resume":"¿Sabías qué un micrologix 1000 es ideal para espacios reducidos que requieren hasta 32 puntos de E/S? Si optas por usarlo tendrás un controlador de alta velocidad con capacidades avanzadas de conexión en red y un conjunto completo de soluciones de control.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/allenbradley.png?alt=media&token=cff732d8-6ca6-4927-94ce-9f9d0e0089d1"
+    },
+    {
+        "id": 5,
+	    "categoryId": 1,
+        "description": "ILC 131 ETH",
+        "stock":10,
+        "price": 550,
+        "brand": "Phoenix Contact",        
+        "resume":"El autómata compacto modular ILC 131 ETH para el sistema de E/S Inline es la pieza central de Easy Automation. La nueva serie ILC 1X1 destaca por el apoyo de los protocolos basados en Ethernet Modbus/TCP y PROFINET. Como novedad cabe destacar una tarjeta SD opcional.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/PHOENIX-plc.png?alt=media&token=b38afb18-debe-4741-8a70-e319b37799eb"
+    },
+    {
+        "id": 6,
+	    "categoryId": 2,
+        "description": "Nano Loco M5",
+        "stock":10,
+        "price": 235,
+        "brand": "Ubiquiti",
+        "resume":"Equipo de exterior compacto, incluye una antena MIMO de doble polaridad para la banda de 5 GHz. La velocidad de transferencia real del equipo es de hasta 150 Mbps. Gracias a la tecnología TDMA Time Division Multiplexing permite conectarse a más de 300 clientes al equipo.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/m5.png?alt=media&token=e9fba92a-f15f-4edb-9efb-ab6e1488d743"
+    },
+    {
+        "id": 7,
+	    "categoryId": 2,
+        "description": "Nano Loco M2",
+        "stock":10,
+        "price": 145,
+        "brand":"Ubiquiti",
+        "resume":"Equipo de exterior compacto, incluye una antena MIMO de doble polaridad para la banda de 2.4 GHz. La velocidad de transferencia real del equipo es de hasta 150 Mbps. Gracias a la tecnología TDMA Time Division Multiplexing permite conectarse a más de 300 clientes al equipo.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/m2.png?alt=media&token=53c653c8-e4e7-44bc-9374-d5221ee4da01"
+    },
+    {
+        "id": 8,
+	    "categoryId": 2,
+        "description": "mANT 15s",
+        "stock":10,
+        "price": 645,
+        "brand":"Mikrotik",
+        "resume":"El mANT es una antena de doble polarización de 15dBi y 120 grados de ancho de haz con dos conectores RP-SMA. Es compatible con el soporte tipo SXT, por lo que puede usarlo con nuestros sistemas QuickMount duraderos y ajustables. Viene con QuickMOUNT PRO.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/mikrotik.png?alt=media&token=7af7132a-2a12-42e5-b28b-d72891b7b339"
+    },
+    {
+        "id": 9,
+	    "categoryId": 2,
+        "description": "PMP 450b",
+        "stock":10,
+        "price": 745,
+        "brand":"Cambium",
+        "resume":"El backhaul de alta ganancia PTP 450b de 5 GHz (punto a punto) tiene hasta 300 Mbps en un canal de 40 MHz. El rango de frecuencia es de 4,9 a 5,925 GHz.",
+        "image": "https://storage.googleapis.com/react-app-8510f.appspot.com/cambium.png?GoogleAccessId=service-18188578023@gcp-sa-firebasestorage.iam.gserviceaccount.com&Expires=1689210865&Signature=WpWhUFCCziqyvISGoeerGog88C5K3q%2BPXdlFWUQElij0B2EOM1H9rGYUEwx9J6fS/Lq3%2BuNGDzJ4VI0oiJqnume1ubnVmW%2BhL9qAMgxeeeW7y3jx7PcLY0VyI9xJTB5xWDZgrXYNU7uZjk8F5NER7iaT4tnBSpXPr/lgGawX%2BNFZxOhlWRepB86F6cFMo3tKpC7jU46IcpGmJK2c/6BRWtZwIupqV9/bxaSUoCqd1%2BUWPK39Pqn4nz5luWPzrfa2ldd6HUGBvGs5MiIOsLBK12iirCj2a%2BnhYgDPX5pgTzzvlOYP4oHkww5qtx0ZmSHWgIxKEEX3d2XHCL6gGbmXaQ%3D%3D"
+    },
+    {
+        "id": 10,
+	    "categoryId": 2,
+        "description": "B5c",
+        "stock":10,
+        "price": 445,
+        "brand":"Mimosa",
+        "resume":"La Mimosa B5c es la solución de conectividad de seguridad pública y sin licencia más rápida de la industria, que permite el uso de prácticamente cualquier antena para la conexión de larga distancia de Punto a Punto. El diseño IP67 de grado de operador permite que B5 y B5c soporten las condiciones ambientales más duras.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/mimosa.png?alt=media&token=e1657f44-dd40-4808-934f-1985cdcbfb94"
+    }
+]

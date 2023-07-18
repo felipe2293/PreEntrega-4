@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Controladores Logicos",
+        "backgroundColor": "#77A6BF",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/plc-fotor-bg-remover-20230712192020.png?alt=media&token=3659c2f8-2ea9-449f-9643-63c4b4f24254"
+    },
+    {
+        "id": 2,
+        "name": "Equipos de Comunicacion",
+        "backgroundColor": "#52A937",
+        "backgroundImage": "https://firebasestorage.googleapis.com/v0/b/react-app-8510f.appspot.com/o/images-fotor-bg-remover-2023071219275.png?alt=media&token=8dd018ad-25cf-4ece-adc9-27ca5df8c3c0"
+    }
+]
